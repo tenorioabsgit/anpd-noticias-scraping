@@ -85,12 +85,3 @@ source("011_analise_sentimento.R")
 - [ ] Melhorar a eficiência dos scripts de scraping.
 
 ---
-
-📢 **Mantenedores:**  
-👤 **José Tenório Abs Junior**  
-📧 Contato: [Seu Email]  
-
-🛠️ **Colaboradores:**  
-- Nome 1  
-- Nome 2  
-- Nome 3  
